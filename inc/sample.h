@@ -1,4 +1,4 @@
-#ifndef __sample_h__
-#ifdef __sample_h__
+#ifndef __SAMPLE_H__
+#ifdef __SAMPLE_H__
 int add(int num1,int num2);
 #endif
