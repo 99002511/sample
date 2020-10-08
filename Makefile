@@ -5,7 +5,7 @@ PROJECT_NAME = sample
 BUILD = build
 
 # All source code files
-SRC = project_main.c\
+SRC = main.c\
 src/sample.c\
 
 # All test source files
