@@ -1,5 +1,6 @@
 #include<stdio.h>
-#include "sample.h"
+
+int add();
 int main()
 {
     printf("simple program for helloworld");
